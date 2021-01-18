@@ -1,0 +1,8 @@
+{
+  "name": "Build and Store docker",
+  "description": "Build and Store docker image in Github Packages",
+  "iconName": "studiotwist",
+  "filePatterns": [
+    "^Dockerfile"
+  ]
+}
